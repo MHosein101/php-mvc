@@ -1,0 +1,1 @@
+[21-Feb-2020 09:01:18 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'C:\xampp\htdocs\app.self\framework\Application\Hooks.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\app.self\index.php on line 23

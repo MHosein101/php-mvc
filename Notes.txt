@@ -1,0 +1,14 @@
+Version 10 Changes :
+
+  Improved redirect Function
+
+  Improved Template Engine Class
+
+  Add Simple Loader Class Methods To Functions.php 
+
+
+Future Plans :
+  
+  Add Middlewares
+  
+  Add More Helper Classes Like Validator And ...

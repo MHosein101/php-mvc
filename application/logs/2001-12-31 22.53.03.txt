@@ -1,0 +1,1 @@
+[31-Dec-2001 22:53:03 Europe/Berlin] PHP Fatal error:  Cannot redeclare Hooks::beforeController() in C:\Xampp\htdocs\mvc\framework\Hooks.php on line 21

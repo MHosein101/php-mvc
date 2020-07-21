@@ -1,0 +1,1 @@
+[18-Feb-2020 15:58:49 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'C:\xampp\htdocs\app.self\framework\VTC.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\app.self\index.php on line 22

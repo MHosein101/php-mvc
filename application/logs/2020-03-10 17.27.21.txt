@@ -1,0 +1,2 @@
+[10-Mar-2020 17:27:21 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'C:\xampp\htdocs\app.self\framework\Templatify.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\app.self\index.php on line 22
+[10-Mar-2020 17:27:22 Europe/Berlin] PHP Fatal error:  require(): Failed opening required 'C:\xampp\htdocs\app.self\framework\Templatify.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\app.self\index.php on line 22
