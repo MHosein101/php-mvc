@@ -183,7 +183,6 @@ Class Mimes {
     else{
       if( isset( self::$List[$ext] ) ){
         if( $index != -1 ){
-          var_dump(count(self::$List[$ext]) >= $index );
           if( count(self::$List[$ext]) > $index ) return self::$List[$ext][$index];
           else return self::$List[$ext][0];
         }
